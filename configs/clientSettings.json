@@ -1,0 +1,3 @@
+{
+    "partials": "User, Message, GuildMember, ThreadMember, Channel, GuildScheduledEvent, Reaction"
+}
